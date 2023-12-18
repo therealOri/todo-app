@@ -9,8 +9,8 @@ __ __
 The app can do the following.
   - Has a menu for letting users know what they can do. Will run untill the user exits.
   - Can show all currently available tasks and their status. - (Uses pagination)
-  - Can add tasks to a .json file.
-  - Can remove tasks from the .json file.
+  - Can add/create tasks and write them to a .json file.
+  - Can remove/delete tasks from the .json file.
   - Can update the status of the tasks/todo items aka mark them as complete, etc. (False = incomplete | True = Complete)
   - It has a way to show you all currently completed tasks.
   - It has a way to show you all currently incomplete tasks.

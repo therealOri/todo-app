@@ -1,5 +1,5 @@
 # todo-app
-Just a little todo list application thing that I threw together real quick for fun. There's nothing really interesting about it and I wouldn't say it is the best thing out there to use. But It is something and I am happy that I made.
+Just a little todo list application thing that I threw together real quick for fun. There's nothing really interesting about it and I wouldn't say it is the best thing out there to use. But It is something and I am happy that I made it.
 __ __
  
  <br>
